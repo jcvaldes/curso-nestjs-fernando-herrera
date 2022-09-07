@@ -1,0 +1,7 @@
+@url=http://localhost:3000
+
+### all cars
+GET {{url}}/cars
+
+### get car by id
+GET {{url}}/cars/12
